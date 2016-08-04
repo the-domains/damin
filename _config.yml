@@ -1,0 +1,14 @@
+layout_spectrum: 0.4355532
+color:
+  saturation: 0.6248186
+  brandStrength: 0.4205156
+  lightness: 0.9278555
+  rhythmicContrast: 0.7450389
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.1058002
+name: Damin
